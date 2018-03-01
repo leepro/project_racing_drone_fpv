@@ -1,4 +1,4 @@
-# project_racing_drone_fpv
+# FPV DIY Racing Drone Project
 
 ## Body
 
@@ -15,3 +15,4 @@
 ## Shops
 
 * https://www.getfpv.com/
+* https://www.banggood.com/Wholesale-RC-Toys-and-Hobbies-c-1729.html
