@@ -8,3 +8,6 @@
   * [Review Video](https://www.youtube.com/watch?v=U1l_LHIX6To)
   
 ## Radio Transmitter/Receiver
+
+* [Basic 101](https://oscarliang.com/choose-rc-transmitter-quadcopter/)
+* [Best RC Transmitter for FPV Quadcopters](https://fpvfrenzy.com/rc-transmitter-fpv-quadcopter/)
